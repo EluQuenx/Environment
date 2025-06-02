@@ -28,11 +28,6 @@ p {
     font-family: 'Rubik', sans-serif;;
 }
 
-/* ...existing code... */
-
-/* Base styles remain as is */
-
-/* Responsive styles */
 @media (max-width: 1200px) {
     .hero, .problem, .team {
         margin-inline: 2em;
